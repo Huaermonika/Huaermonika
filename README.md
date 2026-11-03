@@ -1,16 +1,18 @@
-## Hi there 👋
+# Urumir乌璐米尔
 
-<!--
-**Huaermonika/Huaermonika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+酒馆助手（SillyTavern）角色卡作者，写角色卡、前端界面与配套工具。
 
-Here are some ideas to get you started:
+## 作品
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **高岭之花** — 白峰千鹤 · 控制终端（MVU 角色卡）
+- **机损营业中！** — 机娘经营模拟
+
+## 工具
+
+- 物品编辑器（官方版 / 玩家版）
+- 开局预设编辑器
+- 地图点位编辑器
+
+## 说明
+
+角色卡仅发布于类脑，授权 Li2KN 搬运。其他平台出现的版本均非本人发布。
